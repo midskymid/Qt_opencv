@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/Qt_opencv">
+        <file>Resources/icon_保存.png</file>
+        <file>Resources/打开.png</file>
+        <file>Resources/另存为.png</file>
+        <file>Resources/魔术棒.png</file>
+        <file>Resources/文件夹.png</file>
+        <file>Resources/新建.png</file>
+    </qresource>
+</RCC>
